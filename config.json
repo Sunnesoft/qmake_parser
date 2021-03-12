@@ -1,0 +1,7 @@
+{
+    "in_path": "./test/test_pro/",
+    "out_path": "./test/out/",
+    "pro": "test_pro.pro",
+    "vars": {"$$PWD/": ""},
+    "cfg": {"CONFIG": "SECOND FIRST"}
+}
